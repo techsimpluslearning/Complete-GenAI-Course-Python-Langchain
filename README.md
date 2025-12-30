@@ -50,5 +50,3 @@ touch .env
 ```
 
 ---
-
-## TechSimPlus Learnings
